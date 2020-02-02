@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1FE581FD-E465-4AC5-9D9C-4853FBB7F053"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDF41C3E-0A3C-4FEF-B22E-1D72FECF1829"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cards Game/Concentration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(numberOfPairsOfCards:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cards Game/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC - 18cb2a7e44ec8cde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cards_Game.ViewController.game.getter : Cards_Game.Concentration"
+                  moduleName = "Cards Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kartikkanungo/Desktop/iOS/Cards%20Game/Cards%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC - 12921fc19a6f8c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cards_Game.ViewController.game.setter : Cards_Game.Concentration"
+                  moduleName = "Cards Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kartikkanungo/Desktop/iOS/Cards%20Game/Cards%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC - d89b874a1a622cc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cards_Game.ViewController.game.modify : Cards_Game.Concentration"
+                  moduleName = "Cards Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kartikkanungo/Desktop/iOS/Cards%20Game/Cards%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC - 45c6d6d344acc677"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cards_Game.ViewController.game.modify : Cards_Game.Concentration with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Cards Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kartikkanungo/Desktop/iOS/Cards%20Game/Cards%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC - d0d68356ecfe249d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cards_Game.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Cards_Game.ViewController"
+                  moduleName = "Cards Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kartikkanungo/Desktop/iOS/Cards%20Game/Cards%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "F0021FB0-30D8-46F2-A7DE-9C4E9944E3EC - 5d17edd8cc46f76e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cards_Game.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Cards_Game.ViewController&gt;"
+                  moduleName = "Cards Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kartikkanungo/Desktop/iOS/Cards%20Game/Cards%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03FBD91A-24DA-47DD-9D0D-58DBD29D5602"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cards Game/Concentration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "shuffleCards()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA486A88-6AE1-437A-9A65-5F29893FFA27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cards Game/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "touchCard(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3FA7796-4BE1-4609-B95D-2AB636B0505A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cards Game/Concentration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "chooseCard(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
